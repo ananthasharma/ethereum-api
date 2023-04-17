@@ -28,7 +28,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <lombok.version>1.16.6</lombok.version>
         <jsonrpc4j.version>1.2.0</jsonrpc4j.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <commons-codec.version>1.10</commons-codec.version>
         <guava.version>18.0</guava.version>
     </properties>
